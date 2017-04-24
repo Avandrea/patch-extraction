@@ -6,9 +6,9 @@ It can be used for the creation of a dataset to be used for training of a certai
 
 Directory structure:
 
-.
-|--images
-|--points
-|       |--PositivePoints.txt
-|output
+.  
+|--images  
+|--points  
+|    |--PositivePoints.txt  
+|--output
 
