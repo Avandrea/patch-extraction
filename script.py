@@ -2,8 +2,8 @@ import cv2
 import numpy
 import os
 
-def get_patches_and_labels(imagesPath="Images",
-                           PositivePointsPath="Points/PositivePoints.txt", 
+def get_patches_and_labels(imagesPath="images",
+                           PositivePointsPath="points/PositivePoints.txt", 
                            height, width):
     imageNames = os.listdir(imagesPath)
     labels = []
