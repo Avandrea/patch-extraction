@@ -11,5 +11,8 @@ Directory structure:
 |--images  
 |--points  
 |    |--PositivePoints.txt  
-|--output
+|--output  
+|--script.py  
+|--Demo.py  
+|--README.md  
 
