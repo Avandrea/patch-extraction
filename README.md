@@ -7,6 +7,7 @@ It can be used for the creation of a dataset to be used for training of a certai
 Requirements: Python 3, opencv 3
 
 Directory structure:
+```
 .  
 |--images  
 |--points  
@@ -15,4 +16,5 @@ Directory structure:
 |--script.py  
 |--Demo.py  
 |--README.md  
+```
 
